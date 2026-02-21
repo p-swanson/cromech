@@ -66,7 +66,7 @@ one of Straubs students (also look him up) made a blog post about using openMM f
 ----------------------------
 I wil create an easy-to-use library that, uh, allows you to do CG simulations using OpenMM, taking advantage of its ability to use custom potentials ... okay i am getting bored now.. I will come back to this , but uh.. why are you still reading
 > [!WARNING]
->  I did not use any AI in creating this.. i think that true knowledge comes from suffering (something a machine is incapable of)
+>  I did not use any AI in creating this.. i **know** that true knowledge comes from suffering (something a machine is incapable of)
 
 
                                                             
